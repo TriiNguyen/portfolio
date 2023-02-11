@@ -9,7 +9,8 @@ const Technologies = () =>  (
       <br/>
       <SectionTitle>Technologies</SectionTitle>
       <SectionText>
-        Willing to learn new technologies in the future
+		Javascript, TypeScript, Reactjs, Nextjs<br/>
+        And willing to learn new technologies in the future
       </SectionText>
       <List>
         <ListItem>
@@ -19,7 +20,8 @@ const Technologies = () =>  (
             <ListParagraph>
               Experience with <br/>
               HTML, CSS, JavaScript <br/>
-              React.js
+              Typescript, Redux-toolkit <br/>
+              Reactjs, Nextjs
             </ListParagraph>
           </ListContainer>
         </ListItem>

@@ -14,7 +14,7 @@ const Footer = () => {
         </LinkColumn>
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
-          <LinkItem href="mailto:tringuyenminh1612@gmail.com">tringuyenminh1612@gmail.com</LinkItem>
+          <LinkItem href="mailto:nguyenminhtrinmt98@gmail.com">nguyenminhtrinmt98@gmail.com</LinkItem>
         </LinkColumn>
       </LinkList>
       <SocialIconsContainer>
@@ -27,7 +27,7 @@ const Footer = () => {
         <SocialIcons href="https://www.linkedin.com/in/nguyen-minh-tri-8710481b3/">
           <AiFillLinkedin size="3rem"/>
         </SocialIcons>
-        <SocialIcons href="https://www.instagram.com/nguyeminhtrii/?hl=vi">
+        <SocialIcons href="">
           <AiFillInstagram size="3rem"/>
         </SocialIcons>
       </SocialIconsContainer>
